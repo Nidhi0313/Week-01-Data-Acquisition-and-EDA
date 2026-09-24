@@ -1,7 +1,14 @@
 # Week 01 - Data Acquisition, Cleaning and EDA
 
-## Objective
-Perform data acquisition, data cleaning, preprocessing, and exploratory data analysis using Python.
+## Dataset
+E-commerce Customer Behavior Dataset
+
+## Objectives
+- Data Acquisition
+- Data Cleaning
+- Handling Missing Values
+- Exploratory Data Analysis
+- Data Visualization
 
 ## Tools Used
 - Python
@@ -11,20 +18,12 @@ Perform data acquisition, data cleaning, preprocessing, and exploratory data ana
 - Seaborn
 - Jupyter Notebook
 
-## Tasks Completed
-- Data Acquisition
-- Data Cleaning
-- Missing Value Handling
-- Duplicate Removal
-- Exploratory Data Analysis
-- Data Visualization
-
-## Visualizations
-- Missing Value Analysis
-- Distribution Plot
-- Correlation Heatmap
-
 ## Files
 - week_01.ipynb
-- dataset.csv
-- Week_01_Report.docx
+- week01_reportfile.pdf
+- E-commerce Customer Behavior - Sheet1.csv
+
+## Key Insights
+- The dataset contains useful patterns for future predictive modeling.
+- Data quality issues were minimal after preprocessing.
+- Certain customer segments generate higher revenue.
